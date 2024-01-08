@@ -1,5 +1,5 @@
 variable "myns_name" {
-  type        = string
+  type = string
   #default     = "test"
   description = "Namespace name to create"
 
