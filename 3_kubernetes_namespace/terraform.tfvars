@@ -1,0 +1,1 @@
+myns_name = "test"
